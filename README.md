@@ -1,7 +1,6 @@
 # Ecuador-geo-data
 Repositorio con links a las fuentes de datos geográficas de Ecuador
 <br>
-<br>
 Geoportales y visores
 <table style="width:100%">
 <tr>

@@ -3,7 +3,7 @@ Repositorio con links a las fuentes de datos geográficas de Ecuador
 <br>
 
 <table style="width:100%">
-&nbsp; &nbsp; Geoportales y visores
+&nbsp; &nbsp; Geoportales y visores 👋🏾 👩🏾‍💻
 <br>
 <tr>
   <td align="center">Institución</td>
@@ -63,7 +63,7 @@ Repositorio con links a las fuentes de datos geográficas de Ecuador
 
 <table style="width:100%">
 
-&nbsp; &nbsp; Descargas
+&nbsp; &nbsp; Descargas 👋🏾 👩🏾‍💻
 
 <tr>
 <td align="center">Institución</td>

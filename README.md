@@ -49,6 +49,14 @@ Repositorio con links a las fuentes de datos geográficas de Ecuador
   </td>
 <td> <a href="http://www.codigopostal.gob.ec/">Geoportal Codigo postal Ecuador </td>
 </tr>
+  
+  <tr>
+<td>  Corporacion nacional de telecomunicaciones  </td>
+  <td>
+    CNT
+  </td>
+<td> <a href="https://gis.cnt.gob.ec/appgeoportal/">Geoportal Cobertura Cnt </td>
+</tr>
 
 <tr>
 <td>  Ministerio de Salud Pública  </td>

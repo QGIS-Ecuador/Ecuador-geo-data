@@ -51,7 +51,7 @@ Repositorio con links a las fuentes de datos geográficas de Ecuador
 </tr>
   
   <tr>
-<td>  Corporacion nacional de telecomunicaciones  </td>
+<td>  Corporacion Nacional De Telecomunicaciones  </td>
   <td>
     CNT
   </td>
